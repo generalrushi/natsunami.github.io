@@ -1,4 +1,10 @@
 name: Natsunami
+
 theme: jekyll-theme-cayman
+
 title: Is[A.I]
+
 description: Data Science - Machine Learning - Deep Learning - Neuroscience
+
+navbar-links:
+  About me: "aboutme"
