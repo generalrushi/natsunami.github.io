@@ -8,3 +8,10 @@ description: Data Science - Machine Learning - Deep Learning - Neuroscience
 
 navbar-links:
   About me: "aboutme"
+
+avatar: 
+
+round-avatar: true
+
+social-network-links:
+  github: [natsunami] (https://github.com/natsunami)
